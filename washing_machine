@@ -1,0 +1,5 @@
+#!/bin/bash
+
+chmod +x ./scripts/washing_machine_init.sh
+source ./scripts/washing_machine_init.sh
+python NDNNode.py

@@ -1,0 +1,5 @@
+#!/bin/bash
+
+chmod +x ./scripts/device9.sh
+source ./scripts/device9.sh
+python NDNNode.py
